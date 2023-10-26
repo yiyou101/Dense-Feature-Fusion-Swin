@@ -1,4 +1,4 @@
-A deep learning approach to extract the glacier outlines
+DFFSwin: A complete deep learning framework in glacier boundary extraction for Landsat 8/9 sensors
 ====
 This repository contains code for extracting the glacier outlines in high spatial resolution remote sensing using deep learning. 
 
