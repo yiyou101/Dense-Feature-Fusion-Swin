@@ -13,4 +13,10 @@ We have made an executable file to help researchers who do not have a background
 
 ![软件截图](https://github.com/yiyou101/Dense-Feature-Fusion-Swin/assets/82889935/7a7daa5a-273a-4012-b523-329b9b5b2600)
 
-The software has the following features: 1.Supports Landsat 8/9 sensors. 2.Support for GPU acceleration. 3.Support batch processing of data. 4.Support the selection of different input features. 5.Support the extraction of clean glaciers and moraine-covered glacier
+The software has the following features: 1. Supports Landsat 8/9 sensors. 2. Support for GPU acceleration. 3. Support batch processing of data. 4. Support the selection of different input features. 5. Support the extraction of clean glaciers and debris-covered glacier.
+
+Currently the software language is Chinese, and will be changed to English.
+
+
+
+
