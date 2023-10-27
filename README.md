@@ -2,5 +2,3 @@ DFFSwin: A complete deep learning framework in glacier boundary extraction for L
 ====
 
 The code will be made public after acceptance of the manuscript.
-![Uploading image.png…]()
-The proposed SmaAt-UNet can be found in the model-folder under SmaAt_UNet.
